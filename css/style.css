@@ -68,7 +68,7 @@ strong { font-weight: var(--fw-bold) }
     display: inline-block;
     padding: .5em 2.5em;
     background: var(--clr-accent);
-    color: car(--clr-dark);
+    color: var(--clr-dark);
     text-decoration: none;
     cursor: pointer;
     font-size: .8rem;
